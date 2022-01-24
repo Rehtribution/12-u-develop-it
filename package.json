@@ -4,7 +4,9 @@
   "description": "Module 12 coursework",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
+
   },
   "repository": {
     "type": "git",
